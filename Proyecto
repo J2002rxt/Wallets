@@ -1,0 +1,11 @@
+print('Bienvenidos Manstyle')
+
+
+
+class wallet:
+    id: 1
+    title: str =("Tarjetero en fibra de carbono")
+    overview: str =("Este tarjetero está hecho en fibra de carbono. Te dará mayor comodidad y mayor seguridad.")
+    category: str = ("Fibra de carbono")
+    Color: str = ("Negro")
+
